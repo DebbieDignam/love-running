@@ -85,7 +85,6 @@ nav {
 
 /* Main */
 main    {
-    background-color: lightblue;
     /* Make main element take up any surplus space to push footer down */
     flex: 1 0 auto;   
     margin-top: 47px; 
@@ -141,9 +140,6 @@ main    {
         margin-top: 79px;
     }
 
-    #social-networks   a:hover {
-        transform: scale(1.5);
-      }
 }
 
 /* Large devices: laptops and larger (992px and up) */
