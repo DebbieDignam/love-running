@@ -140,6 +140,10 @@ main    {
         /* Push main content down to accommodate larger header */
         margin-top: 79px;
     }
+
+    #social-networks   a:hover {
+        transform: scale(1.5);
+      }
 }
 
 /* Large devices: laptops and larger (992px and up) */
@@ -150,4 +154,6 @@ main    {
 #menu   a:hover {
     border-bottom: 1px solid #3a3a3a;
   }
+
 }
+
